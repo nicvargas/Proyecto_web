@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Coperativa Agrocafe  </title>
+  <title>Coperativa Agrocafe   </title>
   <meta name="description" content="Pagina principal ">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
