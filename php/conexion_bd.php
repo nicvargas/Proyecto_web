@@ -1,6 +1,9 @@
 <?php
    try{
-	$conexion = new PDO("mysql:host=localhost; dbname=bd_programacion_web","root","");
+//	$conexion = new PDO("mysql:host=localhost; dbname=bd_programacion_web","root","");
+$conexion = new PDO("mysql:host=db4free.net:3006 dbname=bd_programacion_web","nic_vargas@localhost","tulia12031999");
+
+
 }catch(exception $i){
 	die('Error: ' . $i->getmessage());
 }
